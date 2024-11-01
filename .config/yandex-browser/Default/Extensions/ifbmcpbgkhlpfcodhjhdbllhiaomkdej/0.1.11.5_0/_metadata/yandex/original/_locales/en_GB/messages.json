@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "Office - Enable Copy and Paste",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDescription": {
+        "message": "Cut, copy, and paste from the right-click menu and ribbon in Office on the web.",
+        "description": "The description of the application, displayed in the web store."
+    }
+}

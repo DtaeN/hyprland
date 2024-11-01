@@ -1,0 +1,4 @@
+2024/11/01-19:10:12.889 31d File /home/maks/.config/yandex-browser/Default/AutofillStrikeDatabase is locked for recovering successfully
+2024/11/01-19:10:12.889 31d Deletion DBImpl for /home/maks/.config/yandex-browser/Default/AutofillStrikeDatabase, waiting for background work finished
+2024/11/01-19:10:12.889 31d Deletion DBImpl for /home/maks/.config/yandex-browser/Default/AutofillStrikeDatabase, background work finished
+2024/11/01-19:10:12.889 31d File /home/maks/.config/yandex-browser/Default/AutofillStrikeDatabase unlocked successfully

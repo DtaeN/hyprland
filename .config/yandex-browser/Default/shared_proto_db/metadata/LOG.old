@@ -1,0 +1,4 @@
+2024/11/01-19:10:10.759 31e File /home/maks/.config/yandex-browser/Default/shared_proto_db/metadata is locked for recovering successfully
+2024/11/01-19:10:10.761 31e Reusing MANIFEST /home/maks/.config/yandex-browser/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/11/01-19:10:10.761 31e Recovering log #3
+2024/11/01-19:10:10.762 31e Reusing old log /home/maks/.config/yandex-browser/Default/shared_proto_db/metadata/000003.log 

@@ -1,0 +1,4 @@
+2024/11/01-20:35:18.747 462 File /home/maks/.config/yandex-browser/Default/WebrtcVideoStats is locked for recovering successfully
+2024/11/01-20:35:18.747 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/WebrtcVideoStats, waiting for background work finished
+2024/11/01-20:35:18.747 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/WebrtcVideoStats, background work finished
+2024/11/01-20:35:18.747 462 File /home/maks/.config/yandex-browser/Default/WebrtcVideoStats unlocked successfully

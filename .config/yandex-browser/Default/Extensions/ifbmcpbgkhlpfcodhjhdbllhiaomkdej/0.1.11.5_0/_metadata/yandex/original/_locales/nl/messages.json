@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "Kopiëren en plakken in Office Online",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDescription": {
+        "message": "Gebruik uw klembord in Office Online, zodat u kunt knippen, kopiëren en plakken vanuit het snelmenu en de lintwerkbalk.",
+        "description": "The description of the application, displayed in the web store."
+    }
+}

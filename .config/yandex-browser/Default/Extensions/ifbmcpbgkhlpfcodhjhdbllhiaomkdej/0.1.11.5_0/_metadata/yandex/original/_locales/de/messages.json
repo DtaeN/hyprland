@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "Kopieren und Einfügen in Office Online",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDescription": {
+        "message": "Verwenden Sie die Zwischenablage in Office Online, um über das Kontextmenü und die Menüleiste Elemente auszuschneiden, zu kopieren und einzufügen.",
+        "description": "The description of the application, displayed in the web store."
+    }
+}

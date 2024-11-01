@@ -1,0 +1,7 @@
+2024/10/31-18:05:53.789 185a File /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb is locked for recovering successfully
+2024/10/31-18:05:53.790 185a Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/31-18:05:53.790 185a Recovering log #3
+2024/10/31-18:05:53.790 185a Reusing old log /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb/000003.log 
+2024/10/31-18:06:45.429 185a Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb, waiting for background work finished
+2024/10/31-18:06:45.429 185a Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb, background work finished
+2024/10/31-18:06:45.429 185a File /home/maks/.config/yandex-browser/Default/IndexedDB/chrome-extension_lbeelcghphenhmdpokjbhknebikhemhn_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,6 @@
+2024/10/31-23:14:32.630 358 File /home/maks/.config/yandex-browser/Default/File System/009/t/Paths is locked for recovering successfully
+2024/10/31-23:14:32.630 358 Creating DB /home/maks/.config/yandex-browser/Default/File System/009/t/Paths since it was missing.
+2024/10/31-23:14:32.635 358 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/File System/009/t/Paths/MANIFEST-000001
+2024/10/31-23:24:32.151 357 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/File System/009/t/Paths, waiting for background work finished
+2024/10/31-23:24:32.151 357 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/File System/009/t/Paths, background work finished
+2024/10/31-23:24:32.151 357 File /home/maks/.config/yandex-browser/Default/File System/009/t/Paths unlocked successfully

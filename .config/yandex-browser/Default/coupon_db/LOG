@@ -1,0 +1,4 @@
+2024/11/01-20:28:56.722 462 File /home/maks/.config/yandex-browser/Default/coupon_db is locked for recovering successfully
+2024/11/01-20:28:56.722 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/coupon_db, waiting for background work finished
+2024/11/01-20:28:56.722 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/coupon_db, background work finished
+2024/11/01-20:28:56.722 462 File /home/maks/.config/yandex-browser/Default/coupon_db unlocked successfully

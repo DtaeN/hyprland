@@ -1,0 +1,6 @@
+2024/10/29-14:03:50.114 5a41 File /home/maks/.config/yandex-browser/Default/Extension Rules is locked for recovering successfully
+2024/10/29-14:03:50.114 5a41 Creating DB /home/maks/.config/yandex-browser/Default/Extension Rules since it was missing.
+2024/10/29-14:03:50.128 5a41 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/Extension Rules/MANIFEST-000001
+2024/10/29-14:07:00.017 5a63 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/Extension Rules, waiting for background work finished
+2024/10/29-14:07:00.017 5a63 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/Extension Rules, background work finished
+2024/10/29-14:07:00.017 5a63 File /home/maks/.config/yandex-browser/Default/Extension Rules unlocked successfully

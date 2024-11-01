@@ -1,0 +1,32 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "ext-icons/no-offers/16.png",
+         "24": "ext-icons/no-offers/24.png",
+         "32": "ext-icons/no-offers/32.png"
+      },
+      "default_popup": "p-root.html",
+      "default_title": "Яндекс Выгода — промокоды и кешбэк"
+   },
+   "background": {
+      "service_worker": "sw.standalone.js"
+   },
+   "content_security_policy": {
+      "extension_pages": "base-uri 'none'; style-src 'unsafe-inline' 'report-sample' 'self'; img-src data: https://avatars.mds.yandex.net https://favicon.yandex.net https://yastatic.net https://leonardo.edadeal.io https://wbplugin.edadeal.yandex.ru https://an.yandex.ru https://yandex.ru https://ads.adfox.ru 'self' avatars.mds.yandex.net; connect-src https://clck.yandex.ru https://wbplugin.edadeal.yandex.ru https://wbplugin.edadeal.ru https://yastatic.net https://config.edadeal.yandex.ru https://yandex.ru; default-src 'none'; script-src 'self'; font-src 'self'; report-uri https://csp.yandex.net/csp?from=cb-extension&project=edadeal&environment=production&version=1.17.0;"
+   },
+   "description": "Промокоды, кешбэк и скидки в интернет-магазинах",
+   "host_permissions": [ "https://wbplugin.edadeal.yandex.ru/*", "https://wbplugin.edadeal.ru/*", "https://config.edadeal.yandex.ru/*", "https://clck.yandex.ru/counter", "https://clck.yandex.ru/click" ],
+   "icons": {
+      "128": "ext-icons/no-offers/128.png",
+      "16": "ext-icons/no-offers/16.png",
+      "24": "ext-icons/no-offers/24.png",
+      "32": "ext-icons/no-offers/32.png",
+      "48": "ext-icons/no-offers/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6DWlWMxeYzbKYJVcBW6OIx2YhRBosRpnOLoOYvJ9QHUjOsq/qeP0G7Xo28oOxSN8a6crAw4miUNdZW14/yThQb9G7kDifreK8BZL1sTXsXkt/YN9b/uixOIVXpk/mEJqnzjcA4DDPx77FRoWU0qtQ0AxIXzUjbLXjfWiXgmuFk16Ap6bTqArMdoF2c4cgKvlB/L9vMeU+pTLFmeQI9vyBzfHbe3L5S+zAUbjo9VBW8ix6wLtGI3im0AExJ99SkSL56qXI2fmQ4Zpr6w2m3LY6x7bFoFoyHka7AXNo8+cVW2plRx4lIyIp1UUop5slpy3dFchCIHgWnd38tvVgFxYwIDAQAB",
+   "manifest_version": 3,
+   "name": "Яндекс Выгода — промокоды и кешбэк",
+   "permissions": [ "webNavigation", "tabs", "storage", "notifications", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.17.0"
+}

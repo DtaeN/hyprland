@@ -1,0 +1,4 @@
+2024/11/01-20:28:55.574 470 File /home/maks/.config/yandex-browser/Default/Service Worker/Database is locked for recovering successfully
+2024/11/01-20:28:55.584 470 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/Service Worker/Database/MANIFEST-000001
+2024/11/01-20:28:55.585 470 Recovering log #3
+2024/11/01-20:28:55.588 470 Reusing old log /home/maks/.config/yandex-browser/Default/Service Worker/Database/000003.log 

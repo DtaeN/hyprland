@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "Pagkopya at Pagdikit sa Office Online",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDescription": {
+        "message": "Gamitin ang iyong clipboard sa Office Online para gumupit, kumopya, at magdikit ka mula sa right click menu at sa ribbon bar.",
+        "description": "The description of the application, displayed in the web store."
+    }
+}

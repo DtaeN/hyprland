@@ -1,0 +1,11 @@
+2024/10/29-22:38:34.078 473 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb is locked for recovering successfully
+2024/10/29-22:38:34.078 473 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/29-22:38:34.078 473 Recovering log #3
+2024/10/29-22:38:34.078 473 Reusing old log /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb/000003.log 
+2024/10/29-22:57:45.046 469 Level-0 table #5: started
+2024/10/29-22:57:45.054 469 Level-0 table #5: 4520 bytes OK
+2024/10/29-22:57:45.079 469 Delete type=0 #3
+2024/10/29-22:57:45.079 469 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/29-22:57:45.079 468 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb, waiting for background work finished
+2024/10/29-22:57:45.079 468 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb, background work finished
+2024/10/29-22:57:45.080 468 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_pikabu.ru_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,7 @@
+2024/11/01-20:28:56.173 462 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb is locked for recovering successfully
+2024/11/01-20:28:56.174 462 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/01-20:28:56.174 462 Recovering log #3
+2024/11/01-20:28:56.181 462 Reusing old log /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb/000003.log 
+2024/11/01-20:29:38.599 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb, waiting for background work finished
+2024/11/01-20:29:38.600 462 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb, background work finished
+2024/11/01-20:29:38.600 462 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb unlocked successfully

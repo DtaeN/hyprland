@@ -1,0 +1,4 @@
+2024/11/01-20:28:58.765 46d File /home/maks/.config/yandex-browser/Default/BudgetDatabase is locked for recovering successfully
+2024/11/01-20:28:58.765 46d Deletion DBImpl for /home/maks/.config/yandex-browser/Default/BudgetDatabase, waiting for background work finished
+2024/11/01-20:28:58.766 46d Deletion DBImpl for /home/maks/.config/yandex-browser/Default/BudgetDatabase, background work finished
+2024/11/01-20:28:58.766 46d File /home/maks/.config/yandex-browser/Default/BudgetDatabase unlocked successfully

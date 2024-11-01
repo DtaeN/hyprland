@@ -1,0 +1,10 @@
+2024/11/01-20:28:55.569 463 File /home/maks/.config/yandex-browser/Default/Sync Data/LevelDB is locked for recovering successfully
+2024/11/01-20:28:55.584 463 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/01-20:28:55.587 463 Recovering log #29
+2024/11/01-20:28:55.588 463 Reusing old log /home/maks/.config/yandex-browser/Default/Sync Data/LevelDB/000029.log 
+2024/11/01-20:39:45.689 462 Level-0 table #34: started
+2024/11/01-20:39:45.698 462 Level-0 table #34: 117421 bytes OK
+2024/11/01-20:39:45.710 462 Delete type=0 #29
+2024/11/01-21:21:56.429 463 Level-0 table #36: started
+2024/11/01-21:21:56.439 463 Level-0 table #36: 95903 bytes OK
+2024/11/01-21:21:56.449 463 Delete type=0 #33

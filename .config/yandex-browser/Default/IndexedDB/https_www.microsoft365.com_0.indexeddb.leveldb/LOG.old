@@ -1,0 +1,4 @@
+2024/11/01-19:10:56.719 31e File /home/maks/.config/yandex-browser/Default/IndexedDB/https_www.microsoft365.com_0.indexeddb.leveldb is locked for recovering successfully
+2024/11/01-19:10:56.720 31e Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_www.microsoft365.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/01-19:10:56.720 31e Recovering log #3
+2024/11/01-19:10:56.722 31e Reusing old log /home/maks/.config/yandex-browser/Default/IndexedDB/https_www.microsoft365.com_0.indexeddb.leveldb/000003.log 

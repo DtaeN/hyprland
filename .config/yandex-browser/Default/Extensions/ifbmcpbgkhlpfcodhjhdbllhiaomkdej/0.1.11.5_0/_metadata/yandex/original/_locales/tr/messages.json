@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "Office Online Kopyalama ve Yapıştırma",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDescription": {
+        "message": "Office Online’da sağ tıklama menüsünden ve şerit çubuğundan kesme, kopyalama ve yapıştırma işlemleri yapabilmek için panonuzu kullanın.​",
+        "description": "The description of the application, displayed in the web store."
+    }
+}

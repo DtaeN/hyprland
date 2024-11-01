@@ -1,0 +1,4 @@
+2024/11/01-19:10:10.493 31f File /home/maks/.config/yandex-browser/Default/discounts_db is locked for recovering successfully
+2024/11/01-19:10:10.493 31f Deletion DBImpl for /home/maks/.config/yandex-browser/Default/discounts_db, waiting for background work finished
+2024/11/01-19:10:10.493 31f Deletion DBImpl for /home/maks/.config/yandex-browser/Default/discounts_db, background work finished
+2024/11/01-19:10:10.493 31f File /home/maks/.config/yandex-browser/Default/discounts_db unlocked successfully

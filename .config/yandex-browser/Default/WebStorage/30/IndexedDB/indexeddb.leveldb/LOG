@@ -1,0 +1,10 @@
+2024/10/31-20:38:43.284 185c File /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb is locked for recovering successfully
+2024/10/31-20:38:43.285 185c Creating DB /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/31-20:38:43.330 185c Reusing MANIFEST /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/31-20:39:03.867 185b Level-0 table #5: started
+2024/10/31-20:39:03.874 185b Level-0 table #5: 1636 bytes OK
+2024/10/31-20:39:03.885 185b Delete type=0 #3
+2024/10/31-20:39:03.885 185b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/31-20:39:03.885 185a Deletion DBImpl for /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb, waiting for background work finished
+2024/10/31-20:39:03.886 185a Deletion DBImpl for /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb, background work finished
+2024/10/31-20:39:03.886 185a File /home/maks/.config/yandex-browser/Default/WebStorage/30/IndexedDB/indexeddb.leveldb unlocked successfully

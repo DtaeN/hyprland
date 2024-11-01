@@ -1,0 +1,7 @@
+2024/11/01-19:10:10.894 4 File /home/maks/.config/yandex-browser/Default/Session Storage is locked for recovering successfully
+2024/11/01-19:10:10.896 4 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/Session Storage/MANIFEST-000001
+2024/11/01-19:10:10.897 4 Recovering log #10
+2024/11/01-19:10:10.899 4 Reusing old log /home/maks/.config/yandex-browser/Default/Session Storage/000010.log 
+2024/11/01-19:20:35.968 6 Level-0 table #14: started
+2024/11/01-19:20:35.978 6 Level-0 table #14: 29433 bytes OK
+2024/11/01-19:20:35.990 6 Delete type=0 #10

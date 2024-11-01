@@ -1,0 +1,31 @@
+2024/11/01-19:10:10.462 4 File /home/maks/.config/yandex-browser/Default/Local Storage/leveldb is locked for recovering successfully
+2024/11/01-19:10:10.470 4 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/01-19:10:10.472 4 Recovering log #26
+2024/11/01-19:10:10.476 4 Reusing old log /home/maks/.config/yandex-browser/Default/Local Storage/leveldb/000026.log 
+2024/11/01-19:11:20.810 6 Level-0 table #31: started
+2024/11/01-19:11:20.812 6 Level-0 table #31: 14742 bytes OK
+2024/11/01-19:11:20.816 6 Delete type=0 #26
+2024/11/01-19:11:21.895 4 Level-0 table #33: started
+2024/11/01-19:11:21.898 4 Level-0 table #33: 41995 bytes OK
+2024/11/01-19:11:21.902 4 Delete type=0 #30
+2024/11/01-19:16:49.115 4 Level-0 table #35: started
+2024/11/01-19:16:49.125 4 Level-0 table #35: 35750 bytes OK
+2024/11/01-19:16:49.140 4 Delete type=0 #32
+2024/11/01-19:20:45.022 4 Level-0 table #37: started
+2024/11/01-19:20:45.037 4 Level-0 table #37: 134973 bytes OK
+2024/11/01-19:20:45.050 4 Delete type=0 #34
+2024/11/01-19:20:45.051 4 Compacting 4@0 + 1@1 files
+2024/11/01-19:20:45.075 4 Generated table #38@0: 516 keys, 454642 bytes
+2024/11/01-19:20:45.076 4 Compacted 4@0 + 1@1 files => 454642 bytes
+2024/11/01-19:20:45.088 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/01-19:20:45.088 4 Delete type=2 #33
+2024/11/01-19:20:45.088 4 Delete type=2 #37
+2024/11/01-19:20:45.088 4 Delete type=2 #31
+2024/11/01-19:20:45.088 4 Delete type=2 #35
+2024/11/01-19:20:45.088 4 Delete type=2 #28
+2024/11/01-19:29:11.532 4 Level-0 table #40: started
+2024/11/01-19:29:11.536 4 Level-0 table #40: 27690 bytes OK
+2024/11/01-19:29:11.540 4 Delete type=0 #36
+2024/11/01-19:32:03.678 6 Level-0 table #42: started
+2024/11/01-19:32:03.683 6 Level-0 table #42: 24263 bytes OK
+2024/11/01-19:32:03.688 6 Delete type=0 #39
