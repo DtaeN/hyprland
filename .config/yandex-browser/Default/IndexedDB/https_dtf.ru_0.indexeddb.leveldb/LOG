@@ -1,6 +1,0 @@
-2024/10/29-22:39:00.169 473 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb is locked for recovering successfully
-2024/10/29-22:39:00.169 473 Creating DB /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb since it was missing.
-2024/10/29-22:39:00.175 473 Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/29-22:39:20.847 495 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb, waiting for background work finished
-2024/10/29-22:39:20.847 495 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb, background work finished
-2024/10/29-22:39:20.847 495 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_dtf.ru_0.indexeddb.leveldb unlocked successfully

@@ -1,7 +1,0 @@
-2024/10/31-12:52:14.965 106a File /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb is locked for recovering successfully
-2024/10/31-12:52:14.965 106a Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/31-12:52:14.965 106a Recovering log #3
-2024/10/31-12:52:14.966 106a Reusing old log /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2024/10/31-12:52:51.950 1066 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb, waiting for background work finished
-2024/10/31-12:52:51.950 1066 Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb, background work finished
-2024/10/31-12:52:51.950 1066 File /home/maks/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb unlocked successfully

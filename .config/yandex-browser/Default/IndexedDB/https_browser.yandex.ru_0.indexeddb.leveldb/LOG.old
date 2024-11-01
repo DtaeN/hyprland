@@ -1,6 +1,0 @@
-2024/10/31-18:48:30.788 185a File /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
-2024/10/31-18:48:30.788 185a Creating DB /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb since it was missing.
-2024/10/31-18:48:30.810 185a Reusing MANIFEST /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/31-18:48:32.840 185b Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
-2024/10/31-18:48:32.840 185b Deletion DBImpl for /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb, background work finished
-2024/10/31-18:48:32.841 185b File /home/maks/.config/yandex-browser/Default/IndexedDB/https_browser.yandex.ru_0.indexeddb.leveldb unlocked successfully
